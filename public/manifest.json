@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "BookmarkTab",
+    "version": "1.0.0",
+    "description": "Transform your new tab into a beautiful, organized bookmark manager with grid layout, dark mode, and live clock.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "permissions": [
+        "bookmarks",
+        "tabs"
+    ],
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    }
+}
