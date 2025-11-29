@@ -1,10 +1,10 @@
 # BookmarkTab
 
-A Chrome extension that replaces your new tab page with an organized bookmark manager.
+A Chrome extension that replaces your new tab page with an organized bookmark view.
 
 ## Demo
 
-![BookmarkTab Demo](demo.png)
+![BookmarkTab Demo](image_demo.png)
 
 *Organize your bookmarks with nested folders, dark mode, and a clean interface*
 
@@ -13,8 +13,6 @@ A Chrome extension that replaces your new tab page with an organized bookmark ma
 
 - Grid layout for bookmark folders
 - Dark mode support
-- Live clock widget
-- Clean, responsive design
 
 ## Installation
 
