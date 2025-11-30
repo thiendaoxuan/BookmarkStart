@@ -18,15 +18,15 @@ A Chrome extension that replaces your new tab page with an organized bookmark vi
 ## Installation
 
 ### From Chrome Web Store
-Coming soon - extension is currently in review.
+Coming soon.
 
-### Manual Installation
-1. Clone this repository
-2. Run `npm install`
-3. Run `npm run build`
-4. Open Chrome and go to `chrome://extensions/`
-5. Enable "Developer mode"
-6. Click "Load unpacked" and select the `dist` folder
+### Install from source
+1. Go to the [Releases](https://github.com/thiendaoxuan/bookmarktab/releases) page.
+2. Download the `bookmarktab-vX.X.X.zip` file from the latest release.
+3. Extract the downloaded zip file.
+4. Open Chrome and go to `chrome://extensions/`, replace "chrome" with "edge", "brave", etc. depends on your browser.
+5. Enable "Developer mode" in the top right corner.
+6. Click "Load unpacked" and select the extracted folder.
 
 ## Development
 
