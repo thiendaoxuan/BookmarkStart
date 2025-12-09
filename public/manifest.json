@@ -1,14 +1,13 @@
 {
     "manifest_version": 3,
     "name": "BookmarkStart",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Replace your new tab with organized bookmarks. Clean layout, dark mode, instant access. Simple and privacy-focused.",
     "chrome_url_overrides": {
         "newtab": "index.html"
     },
     "permissions": [
-        "bookmarks",
-        "tabs"
+        "bookmarks"
     ],
     "icons": {
         "16": "icon.png",
