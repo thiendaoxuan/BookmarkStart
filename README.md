@@ -20,8 +20,7 @@ Replace your new tab with organized bookmarks. Clean layout, dark mode, instant 
 ## Installation
 
 ### From Chrome Web Store
-Coming soon.
-
+[Install BookmarkStart](https://chromewebstore.google.com/detail/jhkoppngfkhpakiejcdkcefkfldpgpdo?utm_source=item-share-cb)
 ### Install from source
 1. Go to the [Releases](https://github.com/thiendaoxuan/BookmarkStart/releases) page.
 2. Download the `bookmarkstart-vX.X.X.zip` file from the latest release.
